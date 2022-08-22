@@ -1,5 +1,5 @@
 - Hi, I’m Rishabh.
-- I’m interested in data analytics, buisness analytics and finance.
+- I’m interested in data science, machine learning and finance.
 
 
 <!---
